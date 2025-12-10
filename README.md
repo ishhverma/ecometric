@@ -232,13 +232,3 @@ Contributing, reproducibility and tests
 License & attribution
 - Choose a permissive license if you intend public reuse (e.g., MIT) or a more restrictive one for internal/commercial projects.
 - Cite data providers (FRED, Yahoo) and libraries (PyMC, ArviZ) in research outputs.
-
-Contact
-- Maintainer: (add your name and contact info)
-- If you want, I can:
-  - generate a ready‑to‑commit README.md (this file),
-  - add a Mermaid image file for the pipeline diagram,
-  - produce a compact "Getting started" notebook cell with concrete ingestion code,
-  - or implement a vintage ALFRED ingestion example (requires FRED API key).
-
-README written and organized as a production‑ready project brief. Tell me which next artifact you'd like (actual file commit, notebook cell, or vintage ingestion implementation) and I will prepare the file(s).
