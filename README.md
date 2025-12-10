@@ -232,3 +232,4 @@ Contributing, reproducibility and tests
 License & attribution
 - Choose a permissive license if you intend public reuse (e.g., MIT) or a more restrictive one for internal/commercial projects.
 - Cite data providers (FRED, Yahoo) and libraries (PyMC, ArviZ) in research outputs.
+- 
