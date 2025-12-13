@@ -36,8 +36,6 @@ Motivation & goals
 Pipeline (diagram + description)
 The following shows the high‑level pipeline. Use this pipeline to reason about where look‑ahead can be introduced and where vintage management matters most.
 
-Mermaid flow (rendered on GitHub with mermaid enabled):
-```mermaid
 flowchart LR
   A[APIs: FRED / ALFRED, Yahoo / Market Data] --> B[Raw Downloads (data/raw/)]
   B --> C[Parser & Validator (src/ingest/)]
